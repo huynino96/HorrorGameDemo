@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602f5d7c83a4f044cb0690754609194d, type: 3}
+  m_Name: A3. Light acquired!!
+  m_EditorClassIdentifier: 
+  storyText: 'A3. Light acquired!!
+
+    After hold up your light, you decided to
+    search downstairs to find the source of the sound. Suddenly, the TV turn on.
+    You remember that there is no power, what will you do?
+
+    
+
+    1. Staring
+    the TV
+
+    2. Run to the main door'
+  nextState:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: eef9ef4ff488c654eb3893482961e814, type: 2}
+  previousState: []

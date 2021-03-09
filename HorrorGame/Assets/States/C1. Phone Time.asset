@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602f5d7c83a4f044cb0690754609194d, type: 3}
+  m_Name: C1. Phone Time
+  m_EditorClassIdentifier: 
+  storyText: 'C1. Phone time
+
+    You pick up the phone, the phone still have the
+    flashlight function in it to check downstairs for yourself, but you can still
+    call the Electrical support, what will you do?
+
+    1. Call them
+
+    2. Just
+    check it for yourself'
+  nextState:
+  - {fileID: 11400000, guid: 58be71e0d7d08b6479d94c3df694cca6, type: 2}
+  - {fileID: 11400000, guid: f1513ec8d9e439f409a6ab711f8975b1, type: 2}
+  - {fileID: 11400000, guid: eef9ef4ff488c654eb3893482961e814, type: 2}
+  previousState: []

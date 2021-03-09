@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602f5d7c83a4f044cb0690754609194d, type: 3}
+  m_Name: C2. Support Time
+  m_EditorClassIdentifier: 
+  storyText: 'C2. Support time
+
+    You pick up the phone and call for your dear
+    support, but there is no connection but it is impossible you to call, then the
+    phone make some weird and haunting sound. You drop the phone, scared and confused.
+    The ghost appeared from the phone and you died. Game over. '
+  nextState: []
+  previousState: []
